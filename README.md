@@ -1,7 +1,4 @@
 # Web Scraping Project
-
-## Final Assignment - Part 3
-
 This repository contains a web scraping exercise performed to extract city data from the 2011 Census of India.
 
 ### Project Overview
