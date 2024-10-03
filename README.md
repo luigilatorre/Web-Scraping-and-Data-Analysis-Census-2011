@@ -21,7 +21,7 @@ To resolve this:
 This adjustment allowed for a successful merge, ensuring that all relevant city data was included.
 
 ### Calculations
-The file containing all calculations and the Python code used for this project can be found in the `/data` directory. Please refer to [`web_scraping_code.py`](/data/web_scraping_code.py) for detailed implementation.
+The file containing all calculations and the Python code used for this project can be found in the [`/data`](/data) directory. Please refer to [`web_scraping_code.py`](/data/web_scraping_code.py) for detailed implementation.
 
 ### Installation
 Make sure to install the required libraries:
